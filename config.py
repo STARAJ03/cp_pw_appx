@@ -1,4 +1,4 @@
 api_id = ""
 api_hash = ""
 bot_token = ""
-auth_users = [27765349]
+auth_users = [1116405290]
